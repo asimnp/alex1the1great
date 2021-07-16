@@ -6,5 +6,6 @@
 - [Learning new tech as a beginner.](https://dev.to/alex1the1great/learning-new-tech-as-a-beginners-2gl7)
 - [What to do when tackling a new project.](https://dev.to/alex1the1great/what-to-do-when-tackling-a-new-project-3n0a)
 ## Books
-1. [The Four Agreements: A Practical Guide To Personal Freedom by Don Miguel Ruiz with Janet Mills](https://en.wikipedia.org/wiki/The_Four_Agreements)
-2. [Think and Grow Rich by Napoleon Hill](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+1. The Four Agreements: A Practical Guide To Personal Freedom by Don Miguel Ruiz with Janet Mills
+2. Think and Grow Rich by Napoleon Hill
+3. How to Win Friends and Influence People by Dale Carnegie
