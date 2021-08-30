@@ -9,3 +9,4 @@
 1. The Four Agreements: A Practical Guide To Personal Freedom by Don Miguel Ruiz with Janet Mills
 2. Think and Grow Rich by Napoleon Hill
 3. How to Win Friends and Influence People by Dale Carnegie
+4. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
