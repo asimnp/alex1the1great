@@ -8,7 +8,8 @@
 ## Books
 1. The Four Agreements: A Practical Guide To Personal Freedom by Don Miguel Ruiz with Janet Mills
 2. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
-3. The Magic of Thinking Big by David J. Schwartz
-4. How to Win Friends and Influence People by Dale Carnegie
-5. Think and Grow Rich by Napoleon Hill 
-6. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
+3. Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; A Guide for Kids and Teens by Barbara Oakley PhD, Terrence Sejnowski PhD), Alistair McConville.
+4. The Magic of Thinking Big by David J. Schwartz
+5. How to Win Friends and Influence People by Dale Carnegie
+6. Think and Grow Rich by Napoleon Hill 
+7. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
