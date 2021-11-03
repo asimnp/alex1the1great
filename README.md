@@ -12,4 +12,5 @@
 4. The Magic of Thinking Big by David J. Schwartz
 5. How to Win Friends and Influence People by Dale Carnegie
 6. Think and Grow Rich by Napoleon Hill 
-7. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
+7. Why Didn't They Teach Me This in School?: 99 Personal Money Management Principles to Live By Cary Siege
+8. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
