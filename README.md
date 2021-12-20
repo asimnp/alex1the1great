@@ -14,3 +14,8 @@
 6. Think and Grow Rich by Napoleon Hill 
 7. Why Didn't They Teach Me This in School?: 99 Personal Money Management Principles to Live By Cary Siege
 8. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AsimShrestha_)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/asim-shrestha-a25944166/)
