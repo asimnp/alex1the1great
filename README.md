@@ -5,6 +5,8 @@
 ## Blogs
 - [Things not to forgot while learning coding as a beginner.](https://dev.to/alex1the1great/things-not-to-forgot-while-learning-coding-as-a-beginner-4l46)
 - [What to do when tackling a new project.](https://dev.to/alex1the1great/what-to-do-when-tackling-a-new-project-3n0a)
+## Gists
+- [Vue 3 Official Tutorial](https://gist.github.com/alex1the1great/0e0cf9918cbf2d0494e96674bcbf98c5)
 ## Books
 1. The Four Agreements: A Practical Guide To Personal Freedom by Don Miguel Ruiz with Janet Mills
 2. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
