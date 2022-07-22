@@ -1,6 +1,6 @@
 ### Hi there, I'm Asim 👋
 
-- 🔭 I’m currently working on [ReShareX](https://resharex.herokuapp.com/resource/explore/)
+- 🔭 I’m currently working in [Proshore](https://proshore.eu/)
 - ⚡ Fun fact: One Life
 ## Blogs
 - [Things not to forgot while learning coding as a beginner.](https://dev.to/alex1the1great/things-not-to-forgot-while-learning-coding-as-a-beginner-4l46)
